@@ -4,7 +4,7 @@ export const coupons = {
         discount:10
     },
     SAVE20:{
-        name:'SAVE20',
+        name:'SAVE20', 
         discount:20
     },
     ABCD:{
